@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=Krita/PythonPlugin
+X-KDE-Library=toggle_ruler_layer
+X-Python-2-Compatible=false
+X-Krita-Manual=Manual.html
+Name=Toggle Ruler Layer
+Comment=Switches to / from repositioning a layer for your measuring marks.
