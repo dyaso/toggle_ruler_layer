@@ -1,4 +1,4 @@
-Very simple first script, written because I wanted a ruler with marks on it (useful if you're copying a photo and trying to measure proportions in terms of "eye-width units" or some other convenient visual yardstick).
+Very simple first [Krita](https://krita.org/) script, written because I wanted a ruler with marks on it (useful if you're copying a photo and trying to measure proportions in terms of "eye-width units" or some other convenient visual yardstick):
 
  * if you're not in a layer named "Ruler", it selects a layer named "Ruler" and activates the Transform tool
  * if you're in a layer named "Ruler", it switches back to whichever layer you were in previously, and activates whichever tool you were using previously
